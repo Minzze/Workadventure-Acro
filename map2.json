@@ -57,6 +57,7 @@
                  "type":"string",
                  "value":"..\/Lyon\/lyon.json"
                 }],
+         "tintcolor":"#ff0000",
          "type":"tilelayer",
          "visible":true,
          "width":46,
